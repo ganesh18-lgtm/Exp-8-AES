@@ -31,7 +31,7 @@ int main() {
 ```
 # OUTPUT:
 
-![Uploading image.png…]()
+<img width="352" height="210" alt="image" src="https://github.com/user-attachments/assets/2c9f8ead-69dc-43ad-9d6a-89e3ef1bc01b" />
 
 
 # RESULT:
